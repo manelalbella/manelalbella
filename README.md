@@ -17,8 +17,14 @@ I’m a junior web developer who loves to learn and build high-quality web exper
 **[Rick and Morty](https://rickandmorty.manelalbella.workers.dev)**  
   An online web app to test rick and morty free api in a react SPA.
 
-**[Alineación fútbol](https://google.es)**  
+**[Alineación fútbol](https://alineaciones-futbol.manelalbella.workers.dev)**  
   An online web app to manage a football team line up.
+
+---
+
+## 🌐 Languages
+
+🇪🇸 Spanish (native), 🇬🇧 English (medium)
 
 ---
 
