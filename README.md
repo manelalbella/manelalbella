@@ -14,10 +14,13 @@ I’m a junior web developer who loves to learn and build high-quality web exper
 
 ## 🚀 Featured Projects
 
-**[Rick and Morty](https://rickandmorty.manelalbella.workers.dev)**  
+**[Movies](https://movies-tau-six-35.vercel.app)**
+  An online web app to test themoviesdb free api in a react SPA.
+
+**[Rick and Morty](https://rickandmorty.manelalbella.workers.dev)**
   An online web app to test rick and morty free api in a react SPA.
 
-**[Alineación fútbol](https://alineaciones-futbol.manelalbella.workers.dev)**  
+**[Alineación fútbol](https://alineaciones-futbol.manelalbella.workers.dev)**
   An online web app to manage a football team line up.
 
 ---
