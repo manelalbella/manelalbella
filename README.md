@@ -24,7 +24,7 @@ I’m a junior web developer who loves to learn and build high-quality web exper
   An online web app to manage a football team line up.
 
   **[Aplicación del Tiempo](https://el-tiempo.manelalbella.workers.dev)**
-    An online web app to test OpenMeteo free api in a rect SPA.
+    An online web app to test OpenMeteo free api in a react SPA.
 
 ---
 
