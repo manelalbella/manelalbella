@@ -23,8 +23,11 @@ I’m a junior web developer who loves to learn and build high-quality web exper
 **[Alineación fútbol](https://alineaciones-futbol.manelalbella.workers.dev)**
   An online web app to manage a football team line up.
 
-  **[Aplicación del Tiempo](https://el-tiempo.manelalbella.workers.dev)**
-    An online web app to test OpenMeteo free api in a react SPA.
+**[Aplicación del Tiempo](https://el-tiempo.manelalbella.workers.dev)**
+  An online web app to test OpenMeteo free api in a react SPA.
+
+**[Aplicación de Gastos](https://app-gastos.manelalbella.workers.dev)**
+  An online web app to add personal expenses and calculate the total amount.
 
 ---
 
