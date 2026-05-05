@@ -29,6 +29,9 @@ I’m a junior web developer who loves to learn and build high-quality web exper
 **[Aplicación de Gastos](https://app-gastos.manelalbella.workers.dev)**
   An online web app to add personal expenses and calculate the total amount.
 
+**[Agenda Personal](git@github.com:manelalbella/calendario.git)**
+  An online personal agenda to keep track of important dates and reminders in a react SPA.
+  
 ---
 
 ## 🌐 Languages
