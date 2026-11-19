@@ -15,7 +15,7 @@ I’m a junior web developer who loves to learn and build high-quality web exper
 ## 🚀 Featured Projects
 
 **[Frescor](https://frescor-web.onrender.com/)**
-  An online supermarket web app with a product catalog, shopping cart and user accounts, built with Spring Boot and a React SPA.
+  An online supermarket web app with a product catalog, shopping cart and user accounts, built with Spring Boot and a React.
 
 **[Movies](https://movies-tau-six-35.vercel.app)**
   An online web app to test themoviesdb free api in a react SPA.
